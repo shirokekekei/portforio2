@@ -440,7 +440,7 @@ top
 @media screen and (min-width: 768px) {
   .top-back-img {
     padding-top: 55%;
-    background: url(/img/file/top@2x.png) top right/82.5% no-repeat;
+    background: url(./img/file/top@2x.png) top right/82.5% no-repeat;
     max-width: 100%;
     max-height: 660px;
     margin-left: auto;
@@ -635,7 +635,7 @@ back-text
 ***************************/
 @media screen and (min-width: 768px) {
   .back-text {
-    background: url(/img/file/bg/bg@2x.png) center center/cover;
+    background: url(./img/file/bg/bg@2x.png) center center/cover;
     margin-top: 160px;
     position: relative;
     height: 478px;
@@ -656,7 +656,7 @@ back-text
 @media screen and (max-width: 767px) {
   .back-text {
     padding-top: 129%;
-    background: url(/img/file/SP/bg@2x.png) center center/cover;
+    background: url(./img/file/SP/bg@2x.png) center center/cover;
     margin-top: 96px;
     display: block;
     width: 100%;
@@ -966,7 +966,7 @@ concept-2
 contact
 ***************************/
 .contact {
-  background: url(/img/file/contact/contact@2x.png) center center/cover;
+  background: url(./img/file/contact/contact@2x.png) center center/cover;
   padding-bottom: 85px;
   display: block;
 }
